@@ -24,3 +24,5 @@ print("---필터링 함수 사용---")
 iterL = filter(getBiggerThan20, lst)
 for i in iterL: 
     print(i)
+
+print("aaa")
